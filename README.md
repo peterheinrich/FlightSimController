@@ -16,8 +16,8 @@ interconnect and a common programming model and environment.
 Board Schematic:
 [Schematic](/assets/FlightSimController-Schematics.pdf)
 
-Redndered board view (front):
+Rendered board view (front):
 ![Board-Front](/assets/FlightSimController-front.png)
 
-Redndered bord view (back):
+Rendered board view (back):
 ![Board-Back](/assets/FlightSimController-back.png)
