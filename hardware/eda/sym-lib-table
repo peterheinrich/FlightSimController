@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/lib/CM4/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "TC78H611FNG")(type "KiCad")(uri "${KIPRJMOD}/lib/TC78H611FNG/TC78H611FNG.kicad_sym")(options "")(descr ""))
+  (lib (name "TSC2007")(type "KiCad")(uri "${KIPRJMOD}/lib/TSC2007.kicad_sym")(options "")(descr ""))
+  (lib (name "TS19371")(type "KiCad")(uri "${KIPRJMOD}/lib/TS19371/TS19371.kicad_sym")(options "")(descr ""))
+  (lib (name "VN5E160STR-E")(type "KiCad")(uri "${KIPRJMOD}/lib/VN5E160STR-E/VN5E160STR-E.kicad_sym")(options "")(descr ""))
+  (lib (name "LD2980")(type "KiCad")(uri "${KIPRJMOD}/lib/LD2980/LD2980.kicad_sym")(options "")(descr ""))
+  (lib (name "TPD2E009")(type "KiCad")(uri "${KIPRJMOD}/lib/LD2980/TPD2E009/TPD2E009.kicad_sym")(options "")(descr ""))
+  (lib (name "HDMIULC6")(type "KiCad")(uri "${KIPRJMOD}/lib/LD2980/HDMIULC6/HDMIULC6.kicad_sym")(options "")(descr ""))
+)
